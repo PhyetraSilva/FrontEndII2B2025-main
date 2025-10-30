@@ -1,0 +1,20 @@
+.tbl {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.tbl th, .tbl td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #bebebe8a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
