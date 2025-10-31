@@ -1,0 +1,9 @@
+.tbl{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.tbl th, .tbl td {
+    border: 2px solid black;
+    text-align: center;
+}
